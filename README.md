@@ -1,6 +1,6 @@
 # dis3
 
-`dis3` is a backport of the `dis` module from Python 3.5.
+`dis3` is a Python 2.7 backport of the `dis` module from Python 3.5.
 
 
 ## Documentation
