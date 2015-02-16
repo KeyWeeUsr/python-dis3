@@ -21,7 +21,7 @@ class ForceUnicodeStringIO(io.StringIO):
 
 
 ########################################################################
-# contextlib from Python3.4
+# origin: contextlib
 
 class redirect_stdout:
     """Context manager for temporarily redirecting stdout to another file
@@ -49,12 +49,9 @@ class redirect_stdout:
     def __exit__(self, exctype, excinst, exctb):
         sys.stdout = self._old_targets.pop()
 
-# contextlib from Python 3.4
-########################################################################
-
 
 ########################################################################
-# support
+# origin: test.support
 
 def _filter_suite(suite, pred):
     """Recursively filter test cases in a suite based on a predicate."""
@@ -136,12 +133,9 @@ def captured_stdout():
     """
     return captured_output("stdout")
 
-# support
-########################################################################
-
 
 ########################################################################
-# bytecode_helper
+# origin: test.bytecode_helper
 
 _UNSPECIFIED = object()
 
@@ -184,12 +178,8 @@ class BytecodeTestCase(unittest.TestCase):
                 self.fail(msg)
 
 
-# bytecode_helper
 ########################################################################
-
-
-########################################################################
-# test_dis
+# origin: test.test_dis
 
 def get_tb():
     def _error():
