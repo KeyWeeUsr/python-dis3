@@ -24,5 +24,5 @@ setup(
     name='dis3',
     py_modules=['dis3'],
     url=HOMEPAGE,
-    version='0.1.0',
+    version='0.1.1',
 )
