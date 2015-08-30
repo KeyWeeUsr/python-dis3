@@ -1,7 +1,7 @@
 from setuptools import setup
 
 
-HOMEPAGE = 'https://github.com/tomxtobin/dis3'
+HOMEPAGE = 'https://github.com/tomxtobin/python-dis3'
 
 
 setup(
