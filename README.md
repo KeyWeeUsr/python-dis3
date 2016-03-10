@@ -35,5 +35,13 @@ bytecode instructions actually used in Python 2.
 MIT / PSF. See `LICENSE`.
 
 
+## Contributing
+
+The project is hosted at [GitLab][gitlab]:
+
+- https://gitlab.com/tomxtobin/python-dis3
+
+
 [dis-py2]: https://docs.python.org/2/library/dis.html
 [dis-py3]: https://docs.python.org/3/library/dis.html
+[gitlab]: https://gitlab.com/
