@@ -45,7 +45,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md).
 
 ## License
 
-MIT / PSF. See `LICENSE`.
+MIT / PSF. See [`LICENSE`](LICENSE).
 
 
 [dis-py2]: https://docs.python.org/2/library/dis.html
