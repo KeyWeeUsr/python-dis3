@@ -1,5 +1,11 @@
 # Change Log
 
+## Unreleased
+
+### Added
+
+- Add class method and static method disassembly from upstream.
+
 ## 0.1.1 - 2015-08-30
 
 ### Fixed
