@@ -30,6 +30,14 @@ See the [Python 2 `dis` module documentation][dis-py2] for the list of
 bytecode instructions actually used in Python 2.
 
 
+## Contributing
+
+By contributing to this project, you agree to release your contributions
+under the same license terms as this project.
+
+See [`CONTRIBUTING.md`](CONTRIBUTING.md).
+
+
 ## License
 
 MIT / PSF. See `LICENSE`.
