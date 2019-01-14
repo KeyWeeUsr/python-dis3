@@ -1,7 +1,7 @@
 from setuptools import setup
 
 
-HOMEPAGE = 'https://github.com/tomxtobin/python-dis3'
+HOMEPAGE = 'https://github.com/KeyWeeUsr/python-dis3'
 
 
 setup(
@@ -24,5 +24,5 @@ setup(
     name='dis3',
     py_modules=['dis3'],
     url=HOMEPAGE,
-    version='0.1.2',
+    version='0.1.3',
 )
